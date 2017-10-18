@@ -2,7 +2,7 @@
 Creators: Jose Arniel Pama and Lovely Grace Arsolon
 
 # _About Us_
-Pacman is a casual game inspired from the original Pacman game, but with a modern touch and a different game mechanics. It is composed of 3 modes—Classic, Timed, and Revenge. Below is a set of instructions to the different game modes. Are you ready to play?
+The Mini-stat Package allows real time computations on data sampling, data representation, and their measures of central tendency.
 
 # _Options_
 ## Sampling Methods
